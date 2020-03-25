@@ -1,0 +1,2 @@
+# FarmoTech
+This is basically an **Android app** which focuses on decreasing food waste that happens while storing and selling of food products.The idea is to keep track of the amount of grains and vegetable products coming into storage places and sold out.So anyone who is in need of items that is not abundant in their place can check for nearest and best godowns to them and get them.This will feed the need and wastage will be reduced.
